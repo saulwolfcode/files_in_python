@@ -1,0 +1,9 @@
+
+name,age,university,degree
+saul,45,mit,computer scene
+pedro,22,oxford,programmer
+sandra,44,uni,secretary
+pepe,35,locutor,actor
+papo,50,operator,comedy
+
+

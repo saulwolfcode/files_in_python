@@ -1,0 +1,17 @@
+{
+
+"friends":[
+{
+"name":"saul",
+"degree":"Grafic Design"
+},
+{
+"name":"alejo",
+"degree":"UX"
+},
+{
+"name":"salim",
+"degree":"programmer"
+}
+]
+}
